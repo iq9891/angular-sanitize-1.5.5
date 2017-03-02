@@ -1,0 +1,25 @@
+{
+  "name": "angular-sanitize-1.5.5",
+  "version": "1.5.5",
+  "homepage": "https://github.com/iq9891/angular-sanitize-1.5.5",
+  "authors": [
+    "leerb <914726892@qq.com>"
+  ],
+  "description": "angular-sanitize-1.5.5",
+  "main": "./angular-sanitize.js",
+  "keywords": [
+    "angular-sanitize-1.5.5"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "client/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-1.5.5": "1.5.5"
+  }
+}
